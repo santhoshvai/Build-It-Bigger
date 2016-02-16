@@ -9,6 +9,7 @@ package com.example.santhoshvai.gradleapplication.backend;
 import com.google.api.server.spi.config.Api;
 import com.google.api.server.spi.config.ApiMethod;
 import com.google.api.server.spi.config.ApiNamespace;
+import com.udacity.JokeTeller;
 
 /** An endpoint class we are exposing */
 @Api(
@@ -26,8 +27,7 @@ public class MyEndpoint {
     @ApiMethod(name = "getJoke")
     public MyBean getJoke() {
         MyBean response = new MyBean();
-        response.setData("Laugh, this is a joke");
-
+        response.setData(JokeTeller.getJoke());
         return response;
     }
 
