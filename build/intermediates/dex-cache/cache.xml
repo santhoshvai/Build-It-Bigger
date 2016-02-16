@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/classes-30a4489fb11526f6f631071bfad3438f22e22c95.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.19.0/d473a8962e14a707a3716637e4898bb2dd9643f2/google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/google-oauth-client-1.19.0-1ea0bceb8e36ae29f95780e4138dfcb107faa39c.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.19.0/e3f11020c2c812112803d252d1392872d3f619c8/google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/google-http-client-android-1.19.0-65a691f41a58462a31386baaee868abb1a925cb5.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/guava-jdk5-13.0-a4467e7b3a81c0eb9e6530827148b8732913802d.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.19.0/cdca49ad0977c040f603478aa2e16b2775c8fec6/google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/google-http-client-1.19.0-20fa4aada0387ea2ae1705d7b835eaca45d10dc9.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/jackson-core-2.1.3-97020f43328cc0ee420790689d1d0f6ecb3a650d.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.19.0/6a21277d9bebe267b7ddee028b241eebc756c040/google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/google-api-client-1.19.0-8c5d4c4d7c4da1ca7da860d8f499438132406af8.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/classes-1eddf7d488ce78f509f4965df1a9a0a625f9e81f.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/internal_impl-22.2.0-23bf4fc46c5336ba5055a9bdb63ad1ea96e634f0.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.19.0/81dbf9795d387d5e80e55346582d5f2fb81a42eb/google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/google-http-client-jackson2-1.19.0-822848686aaa96f2ac3a4c1ff15459972fc36b97.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/classes-1bc84b632df6e48c0add6c64b059cb2116a4bb8b.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/jsr305-1.3.9-8bc9b8603c8b04789890ed0409926cd74651414f.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/Projects/GradleProject/libjoke/build/libs/libjoke.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c42b7ca350cb505144a730ceaaa58e46c7cda1c2">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/libjoke-67e45b668c1a1eefabc77030b7f43ed1ffd91b00.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/classes-0b9959e605b0d169281ad5f894318cf8d8012a70.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/support-annotations-22.2.0-73cfb2a9826b7f5fbbe4a745d886f2c31af73f0c.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/classes-ac52a93ee15b9b73b779a32050f471d2eae7743f.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.19.0/ba2aafb867f6af469f936ae76426cf0a280094bd/google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/google-api-client-android-1.19.0-fcfdb7e3f71fd797566676fc44149569b5d1d487.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/Projects/GradleProject/jokebackend/build/libs/jokebackend-android-endpoints.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb3cfb913bc9e02edee2ecb894e94e3ee7e90a6d">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/jokebackend-android-endpoints-3188f6353b0c769ce411f034b59db15d9212e292.jar" />
+    </item>
+    <item
+        jar="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/exploded-aar/GradleProject/jokelibapplication/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b0e33cc6db8e6e0e84dc8e33d36c6cfeea4b961">
+        <dex dex="/Users/santhoshvai/Projects/GradleProject/app/build/intermediates/pre-dexed/free/debug/classes-114d274193c7ef608c4291073447808b45b09a3b.jar" />
+    </item>
+
+</items>
